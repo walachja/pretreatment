@@ -1,0 +1,13 @@
+Package: pretreatment
+Type: Package
+Title: The package with two normalization methods (lBase, nlBase)
+Version: 0.1.0
+Date: 2018-01-15
+Depends: affy
+Author: Jan Walach
+Maintainer: Jan Walach <walach.jan@gmail.com>
+Description: The package with two normalization methods (Linear Baseline Normalization and Non-LinearBaseline Normalization). The packege is an extension of a chapter Data normalization and scaling: consequences for the analysis in omics sciences from book Data Analysis for Omic Sciences: Methods and Applications
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
