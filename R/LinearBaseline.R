@@ -14,7 +14,7 @@
 #' \item{x}{  matrix after normalization}
 
 #' @export
-#' @references [1] ADD NAME OF BOOK AND CHAPTER
+#' @references [1] CAC Vol 82: Data Analysis for Omic Sciences: Methods and Applications chapters are due, Chapter Data normalization and scaling:  consequences forthe analysis in omics sciences
 #' @examples
 #' data(mcad)
 #' x <- mcad[,-1]

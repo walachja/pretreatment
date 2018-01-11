@@ -14,7 +14,7 @@
 #' \item{liwong.x}{  matrix after normalization}
 
 #' @export
-#' @references [1] ADD NAME OF BOOK AND CHAPTER
+#' @references [1] CAC Vol 82: Data Analysis for Omic Sciences: Methods and Applications chapters are due, Chapter Data normalization and scaling:  consequences forthe analysis in omics sciences
 #' @references [2] L.Gautier and L. Cope and B.M. Bolstad and R. A. Irizarry (2004) affy---analysis of Affymetrix GeneChip data at the probe level, Bioinformatics, 20(3), 307--315, 2004
 #' @examples
 #' data(mcad)

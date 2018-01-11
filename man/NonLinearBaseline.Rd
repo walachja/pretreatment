@@ -27,7 +27,7 @@ x <- mcad[,-1]
 NonLinearBaseline(x,prd.td=c(0.003,0.007))
 }
 \references{
-[1] ADD NAME OF BOOK AND CHAPTER
+[1] CAC Vol 82: Data Analysis for Omic Sciences: Methods and Applications chapters are due, Chapter Data normalization and scaling:  consequences forthe analysis in omics sciences
 
 [2] L.Gautier and L. Cope and B.M. Bolstad and R. A. Irizarry (2004) affy---analysis of Affymetrix GeneChip data at the probe level, Bioinformatics, 20(3), 307--315, 2004
 }

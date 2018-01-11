@@ -27,7 +27,7 @@ x <- mcad[,-1]
 LinearBaseline(x)
 }
 \references{
-[1] ADD NAME OF BOOK AND CHAPTER
+[1] CAC Vol 82: Data Analysis for Omic Sciences: Methods and Applications chapters are due, Chapter Data normalization and scaling:  consequences forthe analysis in omics sciences
 }
 \author{
 Jan Walach
